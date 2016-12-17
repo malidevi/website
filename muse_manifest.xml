@@ -1,0 +1,30 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="codepro.com" resolutions="1x" timestamp="1482006642028">
+  <folder name="css">
+    <file name="site_global.css" crc="80930680"/>
+    <file name="master_a-master.css" crc="4111026727" ref="tutorials:downloads:about:index"/>
+    <file name="tutorials.css" crc="3920754117" ref="tutorials"/>
+    <file name="downloads.css" crc="3920754117" ref="downloads"/>
+    <file name="about.css" crc="3920754117" ref="about"/>
+    <file name="index.css" crc="4136732168" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about:tutorials:downloads"/>
+    <file name="museutils.js" crc="3790713428" ref="index:about:tutorials:downloads"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about:tutorials:downloads"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:about:tutorials:downloads"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:about:tutorials:downloads"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:tutorials:downloads"/>
+  </folder>
+  <folder name="images">
+    <file name="u130-4.png" crc="4004604179" ref="index:about:tutorials:downloads"/>
+    <file name="u139-4.png" crc="4157683907" ref="index:about:tutorials:downloads"/>
+    <file name="u146-4.png" crc="3984492861" ref="index:about:tutorials:downloads"/>
+    <file name="u185-4.png" crc="137857722" ref="index:about:tutorials:downloads"/>
+    <file name="u205-4.png" crc="184074831" ref="index:about:tutorials:downloads"/>
+    <file name="u227-4.png" crc="255107763" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4057650944" seo="true" mt="1482006574122" redirect="true"/>
+  <file name="about.html" crc="511872376" seo="true" mt="1482006574122" redirect="true"/>
+  <file name="tutorials.html" crc="3860210509" seo="true" mt="1482006574122" redirect="true"/>
+  <file name="downloads.html" crc="4253005183" seo="true" mt="1482006574122" redirect="true"/>
+</manifest>
